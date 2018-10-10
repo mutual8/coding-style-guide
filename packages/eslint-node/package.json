@@ -1,0 +1,23 @@
+{
+  "name": "@mutual8/eslint-node",
+  "version": "0.0.1",
+  "description": "Provides ESLint tooling for Mutual8 Node.js projects.",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mutual8/coding-style-guide.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mutual8/coding-style-guide/issues"
+  },
+  "homepage": "https://github.com/mutual8/coding-style-guide#readme",
+  "dependencies": {
+    "@mutual8/eslint-config-node": "^0.0.1",
+    "eslint": "^5.6.1",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
